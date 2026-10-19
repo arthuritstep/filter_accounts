@@ -17,7 +17,11 @@ INSTALLED_APPS = [
     "api",
     "rest_framework",
     "corsheaders",
+<<<<<<< HEAD
     "game",
+=======
+    "notes",
+>>>>>>> 150a3b066e5ebecbfffbb60064897bbac6e0dcae
 ]
 
 MIDDLEWARE = [
